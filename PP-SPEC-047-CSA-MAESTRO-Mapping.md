@@ -120,7 +120,7 @@ The primary MAESTRO source is a CSA blog article by Ken Huang published February
 
 The CSA MAESTRO Threat Analyzer repository (github.com/CloudSecurityAlliance/MAESTRO) is distributed under the MIT License. That license covers the tool code, not the MAESTRO framework text. This specification does not use or incorporate that code.
 
-This Proof Protocol mapping is independently authored and Licensed under the Greater Good Commercial License 1.0 (see LICENSE.md); text CC BY-ND 4.0 under its Part S. Original inventor: Craig Thomas Ellrod (ORCID 0009-0004-1058-7666).
+This Proof Protocol mapping is independently authored and Licensed under the Greater Good Commercial License 1.0 (see LICENSE.md); text CC BY 4.0 under its Part S. Original inventor: Craig Thomas Ellrod (ORCID 0009-0004-1058-7666).
 
 ### Required attribution
 
