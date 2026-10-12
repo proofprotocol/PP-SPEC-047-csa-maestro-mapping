@@ -7,7 +7,7 @@ authors:
     given-names: "Craig"
 version: "0.1"
 date-released: "2026-10-08"
-license: "CC-BY-4.0"
+license-url: "https://github.com/proofprotocol/PP-SPEC-047-csa-maestro-mapping/blob/main/LICENSE.md"
 repository-code: "https://github.com/proofprotocol/PP-SPEC-047-csa-maestro-mapping"
 abstract: "A Proof Protocol mapping specification connecting Cloud Security Alliance MAESTRO layered agentic AI threat modeling context to independently generated evidence, efficacy measurements, and proof artifacts."
 keywords:
